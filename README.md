@@ -9,5 +9,29 @@
 
 ### Hola gente , este es el README del mini proyecto de Auth 0 con React 😀.
 
+
+<h3>Paso para levantar el proyecto</h3>
+
+<ul>
+  <li>
+    En la consola del VSC ejecuta los siguientes comandos :
+  </li>
+</ul>
+
+
+## Para instalar las dependencias del proyecto :
+
+```bash
+npm install
+```
+
+## Para levantar el proyecto :
+
+```bash
+npm start
+```
+
+
+
   </body>
 </html>
