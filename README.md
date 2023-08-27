@@ -32,6 +32,11 @@ npm start
 ```
 
 
+<h2>ACA LES DEJO EL VIDEO DE YOUTUBE DE COMO IMPLEMENTAR AUTH0 CON REACT... ESPERO QUE LES SIRVA Y MUCHOS EXITOS!!🤣</h2>
+
+https://www.youtube.com/watch?v=jn1vllka2uw
+
+
 
   </body>
 </html>
