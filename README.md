@@ -10,7 +10,7 @@
 ### Hola gente , este es el README del mini proyecto de Auth 0 con React 😀.
 
 
-<h3>Paso para levantar el proyecto :</h3>
+<h3>Pasos para levantar el proyecto :</h3>
 
 <ul>
   <li>
